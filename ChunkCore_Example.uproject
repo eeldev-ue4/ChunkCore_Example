@@ -6,7 +6,8 @@
 	"Plugins": [
 		{
 			"Name": "ChunkCore",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4f50c7c443b44318b44c11dbd1ccfefd"
 		}
 	]
 }
